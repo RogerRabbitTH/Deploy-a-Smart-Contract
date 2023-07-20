@@ -2,6 +2,10 @@
 Credit : Airdrop Adventure
 
 ```
+[Link Remix] (https://remix.ethereum.org/)
+```
+
+```
 /**
  *Submitted for verification at Etherscan.io on 2020-09-02
 */
