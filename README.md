@@ -1,10 +1,10 @@
 # Deploy-a-Smart-Contract
 Credit : Airdrop Adventure
 
-```
-[Link Remix] (https://remix.ethereum.org/)
-```
+# Web remix
+[Remix](https://remix.ethereum.org/)
 
+# solidity Code for Deploy
 ```
 /**
  *Submitted for verification at Etherscan.io on 2020-09-02
