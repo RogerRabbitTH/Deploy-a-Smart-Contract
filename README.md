@@ -4,7 +4,7 @@ Credit : Airdrop Adventure
 # Web remix
 [Remix](https://remix.ethereum.org/)
 
-# solidity Code for Deploy
+# Solidity code for Deploy
 ```
 /**
  *Submitted for verification at Etherscan.io on 2020-09-02
